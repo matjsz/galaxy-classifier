@@ -71,10 +71,6 @@ Galaxy_3
 	Model prediction: [1.2136501e-04 7.2277919e-07 1.8424975e-02 9.8145294e-01]
 	True label: Merger (2)
 	Correct: False
-Galaxy_4
-	Model prediction: [0.04124738 0.03621183 0.16665128 0.75588953]
-	True label: Merger (2)
-	Correct: False
 ```
 
 The following images present the visualization of the inferences, the image with black and white pictures represent the passage of the input through the layers, the big picture has the category predicted above written above it as the output:
